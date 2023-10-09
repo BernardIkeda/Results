@@ -1,0 +1,150 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Poppins';
+    background-color: #f7f7f7;
+}
+
+
+.Right-container{
+    width: 28%;
+    height: 70vh;
+    margin-top: 7%;
+    margin-left: 45%;
+    border-radius: 0px 25px 25px 0px;
+    background-color: #FFFFFF;
+  
+}
+
+#heading{
+    padding-top: 10%;
+    margin-left: 10%;
+    font-weight: 600;
+    color: #ffff;
+}
+
+#visual, #verbal, #memory, #reaction{
+    display: flex;
+    margin: 4%;
+    margin-top: 3%;
+    padding-top: 5%;
+    margin-left: 14%;
+    border-radius: 10px;
+    height: 8%;
+    width: 70%;
+}
+
+#reaction{
+    background-color: #FFF6F5;
+}
+#reaction-txt{
+    margin-left: 2%;
+    color: #DF6966;
+}
+
+#memory{
+    background-color: #FFFBF2;
+}
+#memory-txt{
+    margin-left: 2%;
+    color: #F8CD76;
+}
+
+#verbal{
+    background-color: #F2FBFA;
+}
+#verbal-txt{
+    margin-left: 2%;
+    color: #4CB59B;
+}
+
+#visual{
+    background-color: #F3F3FD;
+}
+
+#visual-txt{
+    margin-left: 2%;
+    color: #262F9D;
+}
+
+#percent-1{
+    margin-left: 39%;
+}
+
+#percent-2{
+    margin-left: 48%;
+}
+
+#continue{
+    text-align: center;
+    width: 57%;
+    padding: 2.5%;
+    margin-left: 18%;
+    margin-top: 5%;
+    border-radius: 25px;
+    background-color: #303B59;
+}
+
+a{
+    font-size: 87%;
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+.Left-Container{
+    margin-top: -104.2%;
+    margin-left: -95%;
+    width: 100%;
+    height: 70vh;
+    color: #ffff;
+    border-radius: 25px;
+    background-image: linear-gradient(#6642FE, #322DE9);
+ 
+}
+
+#header{
+    padding-top: 8%;
+    text-align: center;
+    font-weight: 500;
+}
+
+#sphere{
+    text-align: center;
+    margin-left: 32%;
+    margin-top: 7%;
+    width: 33%;
+    height: 30%;
+    background-image: linear-gradient(#4927D5, #4734F0);
+    border-radius: 100%;
+}
+
+#big{
+    font-size: 300%;
+    font-weight: 690;
+    padding-top: 20%;
+}
+
+#small{
+    font-size: 80%;
+    font-weight: 550;
+    margin-top: -10%;
+    color: #7668EA;
+}
+
+#text-2{
+    font-size: x-large;
+    font-weight: 600;
+   text-align: center;
+    margin-top: 20%;
+}
+
+#sub-text{
+    text-align: center;
+    font-size: small;
+    margin-top: 3%;
+   
+}
